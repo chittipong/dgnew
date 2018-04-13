@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.marginTop50{
+	margin-top:50px;	
+}
+.marginTop40{
+	margin-top:40px;	
+}
+
+.fontSize16{
+	font-size:16px;
+	font-weight:normal;
+}
+
+.fontSize18{
+	font-size:18px;
+	font-weight:normal;
+}
+
+#changeLangCn{
+	width: 65px;
+    height: 30px;
+	float:right;
+}
